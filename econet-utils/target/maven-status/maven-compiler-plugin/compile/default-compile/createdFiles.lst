@@ -5,6 +5,7 @@ com\econetwireless\utils\pojo\INCreditResponse.class
 com\econetwireless\utils\formatters\UtilityBuilder.class
 com\econetwireless\utils\execeptions\EpayException.class
 com\econetwireless\utils\pojo\INBalanceResponse.class
+com\econetwireless\utils\formatters\MobileNumberUtils.class
 com\econetwireless\utils\keygen\KeyGen.class
 com\econetwireless\utils\execeptions\InvalidMobileNumberException.class
 com\econetwireless\utils\formatters\ResponseMarker.class
